@@ -32,6 +32,7 @@ function threeSum(arr, target) {
 			}
 		}
 	}
+	return ans
 }
 
 module.exports = threeSum;
